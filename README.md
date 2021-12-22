@@ -21,3 +21,8 @@ _Users who have write access to this repository_
 - [CA Manas Madrecha](https://github.com/https://github.com/manasmadrecha)
 
 [Apply](/contribution/join-us.md) for becoming Maintainer (for Write Access to this repository)
+
+## Other Database Projects/List
+1. [jainmandir.org](https://www.jainmandir.org) (~7200 Temples)
+1. [Wikipedia](https://en.wikipedia.org/wiki/List_of_Jain_temples) (~280 Temples)
+1. [jaindata.com](https://www.jaindata.com/jain_temple/List.aspx) (~190 Temples)
