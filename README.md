@@ -15,8 +15,9 @@ You can use this database as you deem fit. Possible use cases:
 3. API of Jain Temples
 
 ## Community
-### Current Lead Maintainers
+### Maintainers (Current)
 _Users who have write access to this repository_
 - [CA Adarsh Madrecha](https://github.com/adarshmadrecha)
 - [CA Manas Madrecha](https://github.com/https://github.com/manasmadrecha)
-Apply for becoming Maintainer (for Write Access to this repository)
+
+[Apply](/contribution/join-us.md) for becoming Maintainer (for Write Access to this repository)
