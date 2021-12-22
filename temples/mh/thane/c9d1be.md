@@ -30,7 +30,7 @@ Also know as [Konkan Shatrunjay](c9d1be.md).
 
 This ancient Derasar  attracts many more followers on Saturday which is regarded as the day of parmatma Shri Munisuvrat Swamy , the main deity of this Derasar. Bhojan shala is available. There is also upashray for sadhvi and sadhviji.
 
-## Physical Traits
+## Details
 
 ### Deity
 #### Mulnayak
@@ -40,7 +40,7 @@ Black-coloured idol of Bhagawan Munisurvat Swami in the Padmasana posture.
 The gate of the splendid temple, looks beautiful with artistic sculpture of carvings of the elephants standing on two legs. The coloured painting of the important incidents of the lives of King Samprati, King Vikramaditya and King Shripal, are splendidly and beautifully carved on wooden strips in the temple. They are very fascinating and delightful.
 
 ### Temples in Vicinity
-In front of this chief temple, there is a temple of [Bhagawan Adinath]().
+In front of this chief temple, there is a temple of [Bhagawan Adinath](fc3e21.md).
 
 ### Timings
 Morning: 5:30am - 11:30am \
