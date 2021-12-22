@@ -1,6 +1,7 @@
 # Jain Temples
 Open Database of Jain Temples
-
+* [Temples](/temples)
+* [Pilgrims](/pilgrims)
 ## Inspiration
 
 ## How to Contribute
