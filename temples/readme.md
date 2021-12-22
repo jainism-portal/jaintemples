@@ -1,11 +1,11 @@
 # Jain Temples List
 
-## [Maharashtra](/temples/mh) 
+## [Maharashtra](/temples/mh)
 _Konkan Division (Konkan)_
-- Mumbai City
-- Mumbai Suburban
-- Thane
-- Palghar
+- [Mumbai City](/temples/mh/mumbai-city)
+- [Mumbai Suburban](/temples/mh/mumbai-suburban)
+- [Thane](/temples/mh/thane)
+- [Palghar](/temples/mh/palghar)
 - Raigad
 - Ratnagiri
 - Sindhudurg
