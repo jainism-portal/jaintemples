@@ -1,6 +1,6 @@
 # Jain Temples List
 
-## [Maharashtra](/mh) 
+## [Maharashtra](/temples/mh) 
 _Konkan Division (Konkan)_
 - Mumbai City
 - Mumbai Suburban
