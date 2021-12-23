@@ -2,7 +2,9 @@
 Open Database of Jain Temples
 * [Temples](/temples)
 * [Pilgrims](/pilgrims)
+
 ## Inspiration
+At the time of starting this project, there was no community driven constantly updated database of Jain Temples.
 
 ## How to Contribute
 Read [contribution guide](/contribution/readme.md) for details on submitting pull request and content structure.
