@@ -27,7 +27,7 @@ Category: Navgraha
 Mallinath Bhagwan
 
 ## History
-_Not Available_
+Earlier it was Ghar Mandir. In 2001, it was reconstructed as Shikhar Mandir. 
 
 
 ## Management
