@@ -24,7 +24,7 @@ Category: Navgraha
 
 ## Diety
 ### Mulnayak
-Mallinath Bhagwan
+Blue Sapphire-coloured idol of Bhagwan Mallinath in the Padmasana posture.
 
 ## History
 Earlier it was Ghar Mandir. In 2001, it was reconstructed as Shikhar Mandir. 
