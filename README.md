@@ -21,7 +21,7 @@ You can use this database as you deem fit. Possible use cases:
 ### Maintainers (Current)
 _Users who have write access to this repository_
 - [CA Adarsh Madrecha](https://github.com/adarshmadrecha)
-- [CA Manas Madrecha](https://github.com/https://github.com/manasmadrecha)
+- [CA Manas Madrecha](https://github.com/manasmadrecha)
 
 [Apply](/contribution/join-us.md) for becoming Maintainer (for Write Access to this repository)
 
